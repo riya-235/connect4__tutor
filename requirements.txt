@@ -2,3 +2,4 @@ pygame
 python-dotenv
 google-generativeai
 numpy
+# install requirements

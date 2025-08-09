@@ -2,7 +2,7 @@
 """
 Connect 4 AI Tutor - Main Entry Point
 
-A comprehensive Connect 4 game with AI opponent and Socratic tutoring system.
+A comprehensive Connect 4 game with AI opponent and tutoring system.
 Built using MVC architecture with Pygame for the GUI and Google Gemini API for tutoring.
 """
 

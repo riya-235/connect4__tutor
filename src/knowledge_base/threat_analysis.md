@@ -1,0 +1,3 @@
+# Threat Analysis Strategy
+
+A "threat" in Connect 4 is a situation where a player has three pieces in a row with an empty space that could complete a winning 4-in-a-row. Threats are critical because they force your opponent to respond defensively, limiting their offensive options. There are two types of threats: immediate threats (where the next move can win) and potential threats (where a sequence of moves can create a winning opportunity). Learning to identify and create threats while simultaneously blocking your opponent's threats is essential for advanced play. Good players learn to create multiple threats simultaneously, making it impossible for the opponent to block all of them.

@@ -184,9 +184,11 @@ Adjust the AI difficulty by modifying `AI_DEPTH` in `constants.py`:
 
 This project is open source and available under the MIT License.
 
-## Contributing
+## Team
 
-Contributions are welcome! Please feel free to submit issues and pull requests.
+Jason Qiu
+Riya Patel
+Riddhi Vyas
 
 ---
 

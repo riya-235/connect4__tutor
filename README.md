@@ -186,9 +186,9 @@ This project is open source and available under the MIT License.
 
 ## Team
 
-Jason Qiu
-Riya Patel
-Riddhi Vyas
+- Jason Qiu
+- Riya Patel
+- Riddhi Vyas
 
 ---
 

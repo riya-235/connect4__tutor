@@ -1,5 +1,5 @@
 #!/bin/bash
-# Connect 4 AI Tutor - Virtual Environment Activation Script
+# Connect4 AI Tutor - Virtual Environment Activation Script
 
 echo "Activating Connect 4 AI Tutor virtual environment..."
 source connect4_tutor_env/bin/activate
